@@ -1,0 +1,6 @@
+Threads: 1, Size: 200x200, Time: 0.08572 seconds
+Threads: 1, Size: 400x400, Time: 0.63938 seconds
+Threads: 1, Size: 800x800, Time: 6.29932 seconds
+Threads: 1, Size: 1200x1200, Time: 18.88198 seconds
+Threads: 1, Size: 1600x1600, Time: 43.51839 seconds
+Threads: 1, Size: 2000x2000, Time: 86.58716 seconds
