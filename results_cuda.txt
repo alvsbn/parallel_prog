@@ -1,0 +1,42 @@
+Size: 200x200, Block: 8x8, Time: 0.415 ms
+Size: 200x200, Block: 16x8, Time: 0.396 ms
+Size: 200x200, Block: 16x16, Time: 0.372 ms
+Size: 200x200, Block: 32x8, Time: 0.391 ms
+Size: 200x200, Block: 32x16, Time: 0.379 ms
+Size: 200x200, Block: 32x32, Time: 0.406 ms
+
+Size: 400x400, Block: 8x8, Time: 1.575 ms
+Size: 400x400, Block: 16x8, Time: 1.310 ms
+Size: 400x400, Block: 16x16, Time: 1.327 ms
+Size: 400x400, Block: 32x8, Time: 1.336 ms
+Size: 400x400, Block: 32x16, Time: 1.863 ms
+Size: 400x400, Block: 32x32, Time: 1.584 ms
+
+Size: 800x800, Block: 8x8, Time: 8.932 ms
+Size: 800x800, Block: 16x8, Time: 6.465 ms
+Size: 800x800, Block: 16x16, Time: 6.394 ms
+Size: 800x800, Block: 32x8, Time: 5.442 ms
+Size: 800x800, Block: 32x16, Time: 5.430 ms
+Size: 800x800, Block: 32x32, Time: 5.285 ms
+
+Size: 1200x1200, Block: 8x8, Time: 22.002 ms
+Size: 1200x1200, Block: 16x8, Time: 16.205 ms
+Size: 1200x1200, Block: 16x16, Time: 15.994 ms
+Size: 1200x1200, Block: 32x8, Time: 16.091 ms
+Size: 1200x1200, Block: 32x16, Time: 15.979 ms
+Size: 1200x1200, Block: 32x32, Time: 14.864 ms
+
+Size: 1600x1600, Block: 8x8, Time: 40.721 ms
+Size: 1600x1600, Block: 16x8, Time: 30.814 ms
+Size: 1600x1600, Block: 16x16, Time: 29.110 ms
+Size: 1600x1600, Block: 32x8, Time: 25.757 ms
+Size: 1600x1600, Block: 32x16, Time: 25.926 ms
+Size: 1600x1600, Block: 32x32, Time: 25.303 ms
+
+Size: 2000x2000, Block: 8x8, Time: 59.438 ms
+Size: 2000x2000, Block: 16x8, Time: 45.859 ms
+Size: 2000x2000, Block: 16x16, Time: 42.422 ms
+Size: 2000x2000, Block: 32x8, Time: 37.080 ms
+Size: 2000x2000, Block: 32x16, Time: 37.701 ms
+Size: 2000x2000, Block: 32x32, Time: 35.784 ms
+
