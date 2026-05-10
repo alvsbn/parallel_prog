@@ -30,6 +30,9 @@ int main() {
         Matrix A = generate_random_matrix(n);
         Matrix B = generate_random_matrix(n);
 
+        A.write_to_file("matrix_1_" + to_string(n) + ".txt");
+        B.write_to_file("matrix_2_" + to_string(n) + ".txt");
+
         vector<int> A_flat(n * n);
         vector<int> B_flat(n * n);
         vector<int> C_flat(n * n);
