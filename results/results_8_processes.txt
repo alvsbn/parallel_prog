@@ -1,0 +1,6 @@
+Size: 200x200, Time: 0.01238 seconds
+Size: 400x400, Time: 0.07163 seconds
+Size: 800x800, Time: 0.40946 seconds
+Size: 1200x1200, Time: 1.31803 seconds
+Size: 1600x1600, Time: 3.20585 seconds
+Size: 2000x2000, Time: 6.42117 seconds
